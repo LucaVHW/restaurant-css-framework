@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: row;
+}
+.col-sm-12 {
+  background-color: violet;
+  padding: 5px;
+}
+.col-sm-6 {
+  background-color: violet;
+  padding: 5px;
+}

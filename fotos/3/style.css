@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: row;
+}
+.col-sm-12 {
+  background-color: violet;
+  padding: 5px;
+}
+.col-sm-6 {
+  background-color: violet;
+  padding: 5px;
+  display: grid;
+  justify-content: center;
+}
+img {
+  width: 400px;
+  border: 2px solid #333;
+}
+#yeet {
+  display: grid;
+  justify-content: center;
+}
