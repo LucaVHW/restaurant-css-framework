@@ -13,3 +13,18 @@ body {
   padding: 5px;
   background-color: steelblue;
 }
+img {
+  width: 600px;
+  height: 350px;
+  border: 1px solid #333;
+}
+#yeet {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  background-color: rgba(48,132,205, 0.4);
+}
+p {
+  opacity: 0.8;
+}
