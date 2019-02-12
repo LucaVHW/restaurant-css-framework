@@ -14,4 +14,5 @@ body {
   display: grid;
   justify-content: center;
   background-color: steelblue;
+  padding-bottom: 80px;
 }
