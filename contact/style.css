@@ -11,8 +11,6 @@ body {
 .col-sm-6 {
   background-color: violet;
   padding: 5px;
-  display: grid;
-  justify-content: center;
   background-color: steelblue;
 }
 .col-sm-4 {
@@ -24,4 +22,32 @@ body {
   background-color: violet;
   padding: 5px;
   background-color: steelblue;
+}
+.col-sm-2 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-5 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-3 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-10 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-1 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+#yeet {
+  padding: 10px;
 }
