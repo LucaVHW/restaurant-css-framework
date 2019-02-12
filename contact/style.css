@@ -15,3 +15,13 @@ body {
   justify-content: center;
   background-color: steelblue;
 }
+.col-sm-4 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-8 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
