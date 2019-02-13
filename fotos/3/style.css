@@ -15,8 +15,15 @@ body {
   justify-content: center;
   background-color: steelblue;
 }
+.col-sm-4 {
+  background-color: violet;
+  padding: 5px;
+  display: grid;
+  justify-content: center;
+  background-color: steelblue;
+}
 img {
-  width: 400px;
+  width: 350px;
   border: 2px solid #333;
 }
 #yeet {

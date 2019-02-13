@@ -6,16 +6,43 @@ body {
 .col-sm-12 {
   background-color: violet;
   padding: 5px;
-  background-color: steelblue;
+  background-color: rgba(48,132,205, 0.4);
 }
 .col-sm-6 {
   background-color: violet;
   padding: 5px;
   background-color: steelblue;
 }
+.col-sm-5 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-4 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-3 {
+  background-color: violet;
+  padding: 5px;
+  background-color: steelblue;
+}
+.col-sm-1 {
+  background-color: violet;
+  padding: 5px;
+  background-color: rgba(48,132,205, 0.4);
+}
+.col-sm-10 {
+  background-color: violet;
+  padding: 5px;
+  background-color: rgba(48,132,205, 0.4);
+  display: grid;
+  justify-content: center;
+}
 img {
-  width: 600px;
-  height: 350px;
+  width: 300px;
+  height: 200px;
   border: 1px solid #333;
 }
 #yeet {
@@ -31,4 +58,7 @@ p {
 }
 h1 {
   color: white;
+}
+#ye {
+  background-color: steelblue;
 }

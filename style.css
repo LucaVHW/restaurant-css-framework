@@ -1,6 +1,4 @@
 body {
-  display: flex;
-  flex-direction: row;
   background-color: #333;
 }
 .col-sm-12 {
@@ -9,6 +7,14 @@ body {
   background-color: steelblue;
 }
 .col-sm-6 {
+  background-color: violet;
+  padding: 5px;
+  display: grid;
+  justify-content: center;
+  background-color: steelblue;
+  padding-bottom: 80px;
+}
+.col-sm-4 {
   background-color: violet;
   padding: 5px;
   display: grid;
