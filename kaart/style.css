@@ -62,3 +62,8 @@ h1 {
 #ye {
   background-color: steelblue;
 }
+#img1 {
+  width: 30px;
+  height: 30px;
+  border: none;
+}
